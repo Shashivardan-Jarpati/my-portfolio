@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useState } from "react";
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 
